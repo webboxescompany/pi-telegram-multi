@@ -16,6 +16,12 @@ Use it when you want, for example:
 
 This independent extension is based on [badlogic/pi-telegram](https://github.com/badlogic/pi-telegram).
 
+## Prerequisites
+
+- [pi](https://pi.dev) installed, since this is a pi extension.
+- A Telegram account that will control the pi session.
+- One Telegram bot per pi session, created with [@BotFather](https://t.me/BotFather). See Create Telegram bots below.
+
 ## Install
 
 Install globally for your user:
